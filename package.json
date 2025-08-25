@@ -7,6 +7,17 @@
     "type": "git",
     "url": "https://github.com/BoxMeApp/cms-generator.git"
   },
+  "publisher": "dzylikecode",
+  "author": {
+    "name": "Dz",
+    "email": "mathBeWithCode@gmail.com"
+  },
+  "keywords": [
+    "bloc",
+    "flutter",
+    "dart",
+    "cms"
+  ],
   "engines": {
     "vscode": "^1.103.0"
   },
