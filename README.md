@@ -1,25 +1,18 @@
 # cms-generator
 
-generate code
+generate [CMS](https://github.com/BoxMeApp/cms) code
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+The **cms-generator** VS Code extension helps you quickly generate code for your CMS projects. It adds a context menu action to folders in the Explorer, allowing you to generate code templates or files with a single click.
 
-## Extension Settings
+**Features:**
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+- Right-click any folder in the Explorer and select **"generate cms"** to generate code templates.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 generate code
 
