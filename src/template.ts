@@ -5,6 +5,7 @@ part 'a.freezed.dart';
 
 @freezed
 sealed class A with _$A {
+  const factory A.init() = Init;
 }
 `;
 

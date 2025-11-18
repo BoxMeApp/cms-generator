@@ -29,3 +29,13 @@ set default root path to debug
 }
 
 ```
+
+## development
+
+nodejs: 22
+
+```bash
+nvm use 22 # switch to nodejs 22
+npm install
+npm run build
+```
