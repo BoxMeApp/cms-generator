@@ -27,13 +27,13 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 part 'cms.freezed.dart';
 
 @freezed
-sealed class A with _$A {
-  const factory A.init() = Init;
+sealed class S with _$S {
+  const factory S.zero() = Zero;
 }
 
 @freezed
-sealed class S with _$S {
-  const factory S.zero() = Zero;
+sealed class A with _$A {
+  const factory A.init() = Init;
 }
 
 class M extends Cms<S, A> {

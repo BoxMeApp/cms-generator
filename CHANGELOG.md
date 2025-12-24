@@ -7,3 +7,7 @@
 ## 0.0.4
 
 - simplify freezed annotation
+
+## 0.0.5
+
+- state first, then action
